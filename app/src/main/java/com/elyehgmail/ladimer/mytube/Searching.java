@@ -49,6 +49,8 @@ public class Searching extends AppCompatActivity
             public void onClick(View view) {
                 // here is the result of user's search.
                 //pass it where it needs to go.
+
+
                 searchedString = seachText.getText().toString();
             }
         });
